@@ -1,0 +1,18 @@
+{
+    "name": "instangular",
+    "version": "0.0.1",
+    "description": "Instangular",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "",
+    "author": "Adnan Basar",
+    "license": "MIT",
+    "dependencies": {
+        "grunt": "~0.4.0",
+        "grunt-contrib-coffee": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-contrib-jade": "*"
+    }
+}
