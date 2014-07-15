@@ -9,3 +9,4 @@ More AngularJS
  - Coffeescript Implementation
  - GruntJS Test
  - Bower distribution
+ - Tests
